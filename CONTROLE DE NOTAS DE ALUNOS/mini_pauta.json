@@ -1,0 +1,50 @@
+[
+    {
+        "Nome": "Leonel Dos Anjos",
+        "Media1": 12.0,
+        "Media2": 13.0,
+        "Media3": 14.5,
+        "Media_final": 13.0,
+        "Situa\u00e7\u00e3o": "Aprovado"
+    },
+    {
+        "Nome": "Marcelo Eduardo",
+        "Media1": 14.0,
+        "Media2": 16.0,
+        "Media3": 15.0,
+        "Media_final": 15.0,
+        "Situa\u00e7\u00e3o": "Aprovado"
+    },
+    {
+        "Nome": "Marcelo Costa",
+        "Media1": 16.0,
+        "Media2": 15.0,
+        "Media3": 17.0,
+        "Media_final": 16.0,
+        "Situa\u00e7\u00e3o": "Aprovado Com excelencia"
+    },
+    {
+        "Nome": "Elizandra Piedade",
+        "Media1": 12.0,
+        "Media2": 7.0,
+        "Media3": 6.0,
+        "Media_final": 8.0,
+        "Situa\u00e7\u00e3o": "Reprovado"
+    },
+    {
+        "Nome": "Carlos",
+        "Media1": 9.0,
+        "Media2": 8.5,
+        "Media3": 10.5,
+        "Media_final": 9.0,
+        "Situa\u00e7\u00e3o": "Aprovado Com recurso"
+    },
+    {
+        "Nome": "Wilson Maluko",
+        "Media1": 10.0,
+        "Media2": 9.0,
+        "Media3": 13.0,
+        "Media_final": 10.0,
+        "Situa\u00e7\u00e3o": "Aprovado"
+    }
+]
